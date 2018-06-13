@@ -1,0 +1,140 @@
+﻿.titlePopup {float: left;width: 100%;height: 36px;line-height: 30px;position: relative;}
+.titlePopup span {float: left;width: 568px;height: 36px;padding: 0 23px;color: #3e3e3e;font-size: 14px;position: absolute;left: -7px;top: 0;background: url(/images/bgTitlePopup.png) repeat-x;font-weight: bold;text-transform: uppercase}
+/* login */
+.boxLogin {float: left;width: 100%;padding: 35px 0 0 0;color: #6f6f6f;}
+.titlePopup span.logintt {width: 476px;}
+.boxLogin em {float: left;padding: 3px 0 0 10px;font-style: normal;}
+.boxLogin em b {color: red;}
+.boxLogin .formTitle {width: 95px;padding: 0 20px 0 25px;text-align: left;font-size: 12px}
+
+.boxLogin .guide-mes label ,
+.boxLogin .mes-error label {padding-left: 140px;}
+
+.boxLogin .submitInfo {float: left;padding-left: 140px;}
+.boxLogin .submitInfo a {float: left;margin: 4px 0 0 3px;color: #7c9d27;font-weight: bold;}
+.boxLogin .submitInfo a:hover {color: #000;}
+
+.remenberMe {}
+.remenberMe input {float: left;margin: 3px 4px 0 140px;*margin: -2px 2px 0 136px;}
+.remenberMe label {float: left;font-size: 10px;}
+
+.iconDone {display: block;color: #7c9d26;font-size: 14px;font-weight: bold; padding: 19px 0 19px 112px;background: url(/images/doneRegister.png) no-repeat 30px top;line-height: 22px;margin: 15px 0;}
+.iconDone a {color: #e00000;}
+.iconDone a:hover {color: #000;}
+
+.submitInfoDone {padding-left: 260px;}
+
+.activeCode .submitInfo {float: left;padding-left: 193px;}
+.activeCode .submitInfo a {float: left;margin: 4px 0 0 3px;color: #7c9d27;font-weight: bold;}
+.activeCode .submitInfo a:hover {color: #000;}
+
+
+
+.header {padding: 48px 0 12px 0;font-size: 11px;}
+
+.logoHead {float: left;}
+
+.searchHead {float: right;width: 301px;padding: 0 0 0 18px;}
+.input-head {float: left;width: 229px;height: 33px;line-height: 33px;color: #535353;font-size: 11px;border: none;padding:0 15px 8px 15px;background: url(/images/searchHead.png) no-repeat;}
+.headSearch {float: left;width: 42px;height: 33px;background: url(/images/buttonSearchHead.png) no-repeat;}
+.searchHead p.Fr {line-height: 21px;padding: 0 12px 0 0;  color:#909090}
+
+.size10 {font-size: 10px;}
+.size11 {font-size: 11px;}
+.size12 {font-size: 12px;}
+.size13 {font-size: 13px;}
+.size14 {font-size: 14px;}
+.size15 {font-size: 15px;}
+.size16 {font-size: 16px;}
+.size17 {font-size: 17px;}
+.size18 {font-size: 18px;}
+.size19 {font-size: 19px;}
+.size20 {font-size: 20px;}
+.size21 {font-size: 21px;}
+.size22 {font-size: 22px;}
+
+.lineH14 {line-height: 14px;}
+.lineH16 {line-height: 16px;}
+.lineH17 {line-height: 17px;}
+.lineH18 {line-height: 18px;}
+.lineH19 {line-height: 19px;}
+.lineH20 {line-height: 20px;}
+.lineH22 {line-height: 22px;}
+.lineH26 {line-height: 26px;}
+
+.block {display: block;}
+
+.line {float: left;width: 100%;}
+.line2 {float: left;width: 100%;padding-bottom: 2px;}
+.line4 {float: left;width: 100%;padding-bottom: 4px;}
+.line6 {float: left;width: 100%;padding-bottom: 6px;}
+.line8 {float: left;width: 100%;padding-bottom: 8px;}
+.line10 {float: left;width: 100%;padding-bottom: 10px;}
+.line12 {float: left;width: 100%;padding-bottom: 12px;}
+.line15 {float: left;width: 100%;padding-bottom: 15px;}
+.line20 {float: left;width: 100%;padding-bottom: 20px;}
+.line22 {float: left;width: 100%;padding-bottom: 22px;}
+.line25 {float: left;width: 100%;padding-bottom: 25px;}
+.line30 {float: left;width: 100%;padding-bottom: 30px;}
+.line40 {float: left;width: 100%;padding-bottom: 40px;}
+.line50 {float: left;width: 100%;padding-bottom: 50px;}
+p.input-reg {float: left;border-left: 1px solid #2d2d2d;border-top: 1px solid #2d2d2d;}
+input.input-reg {float: left;width: 260px;padding: 0 5px;height: 23px;line-height: 21px; border: 1px solid #c6c6c6;color: #838383;font-size: 12px;font-family: tahoma;}
+select.input-reg {float: left;width: 70px;height: 23px;line-height: 21px; color: #838383;font-size: 12px;font-family: tahoma; padding:2px 5px}
+option.input-reg {float: left;width: 70px;height: 23px;line-height: 21px; color: #838383;font-size: 12px;font-family: tahoma; padding:5px}
+
+.boxSecurity {float: left;width: 271px;}
+.boxSecurity input.input-reg {width: 96px;}
+.formTitle {float: left;width: 173px;padding: 0 20px 0 0;line-height: 26px;font-weight: bold;text-align: right;color: #3a3a3a;}
+.formTitle {float: left;width: 173px;padding: 0 20px 0 0;line-height: 26px;font-weight: bold;text-align: right;color: #3a3a3a;}
+
+.submitInfo input {
+    background: none repeat scroll 0 0 #7c9d27;
+    color: #fff;
+    float: left;
+    font-family: tahoma;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0 10px 0 0;
+    padding: 5px 0 7px;
+    text-align: center;
+    text-indent: inherit;
+    width: 80px;
+}
+
+
+.boxLogin .guide-mes label, .boxLogin .mes-error label {
+    padding-left: 140px;
+}
+.guide-mes label, .mes-error label {
+    display: block;
+    padding: 0 0 0 193px;
+}
+.guide-mes, .mes-error {
+    font-size: 10px;
+    line-height: 14px;
+    padding: 3px 0 0;
+}
+.boxRegister p.date {width: 80px;margin-right: 14px;}
+.boxRegister p.date input.input-reg {width: 69px;color: #b6b6b6;}
+.boxRegister p.year {padding: 0;}
+
+.boxPollVote {float: left;position: relative;width: 510px;left: -3px;padding: 15px 0 0 0;color: #6f6f6f;}
+
+.boxRegister .avata {float: left;padding: 0 10px 0 0;}
+.boxRegister .avata img {padding: 3px;border: 1px solid #ddd;}
+/* register */
+.boxRegister {float: left;position: relative;width: 610px;left: -3px;padding: 15px 0 0 0;color: #6f6f6f;}
+.boxRegister em {float: left;padding: 3px 0 0 30px;font-style: normal;}
+.boxRegister em b {color: red;}
+.termCondition {color: #4ca9f2;}
+.termCondition input {float: left;margin: 3px 4px 0 12px;*margin: -2px 2px 0 8px;}
+.termCondition label {float: left;font-size: 12px}
+.termCondition a {color: #ff0000;}
+.termCondition a:hover {color: #000;}
+.submitInfo {float: left;padding-left: 225px;}
+.submitInfo input {float: left;margin: 0 10px 0 0;background: #7c9d27;color: #fff;padding: 5px 0 7px 0;width: 80px;font-weight: bold;text-indent: inherit;font-size: 12px;*text-indent: 0;text-align: center;font-family: tahoma;}
+.submitInfo input:hover {background: #a2c549;}
+.uploadAvata {float: left;width: 194px;}
+.uploadAvata input.input-reg {width: 183px;}
+.formTitleBlock span {font-size: 14px;color: #7c9d26;padding-left: 40px;font-weight: bold;}

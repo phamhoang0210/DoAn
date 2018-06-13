@@ -1,0 +1,230 @@
+.right-nav input{
+    display: none;
+}
+.margin-account{
+    width: 1000px;
+    margin: 50px auto;
+    background: #FFF !important;
+}
+.right-film{
+    padding: 0 20px;
+}
+@media (max-width:1120px){
+
+    .ic-logo{
+        display: none !important;
+    }
+
+    .ic-logo2{
+        display: block !important;
+        margin-right: 0;
+        margin-left: 0;
+    }
+    /* cĂ¡i nĂ y cáº§n hiá»‡n sau khi Ä‘á»ƒ search
+        .right-nav input{
+            display: none;
+        }
+        */
+    .ic-search{
+        display: block;
+    }
+}
+@media (max-width:900px){
+    .header .nav>li>a{
+        padding: 15px 10px;
+    }
+}
+@media (max-width: 820px) {
+    .player-block img.cover-film{
+        padding: 0px;
+    }
+    .right-nav{
+        display: none;
+    }
+    a.show-menu{
+        display: block;
+    }
+    .nd-tb{
+        display: block;
+    }
+    .ic-logo2{
+        display: block !important;
+        position: absolute;
+        top: 26px;
+        left: 40px;
+        margin: 0;
+    }
+    .header{
+        text-align: center;
+    }
+    .ic-search{
+        position: absolute;
+        bottom: 5px;
+        right: 10px;
+        margin: 0;
+    }
+    .click-login{
+        margin-right: 15px;
+    }
+    .swiper-container-horizontal>.swiper-pagination{
+        display: none;
+    }
+    .menu-web{
+        display:none;
+    }
+
+
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form{
+        border-color: #322C2C !important;
+        background: #353535;
+
+
+    }
+
+    .cut-item{
+        display: none !important;
+    }
+    .list-film .item-list{
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}
+@media (max-width: 899px){
+    .danhsach ul li {
+        width: 25%;
+        padding: 0 1%;
+    }
+    .danhsach ul li:nth-child(5n),.danhsach ul li:nth-child(5n+1){
+        clear: inherit;
+    }
+    .danhsach ul li:nth-child(4n){
+        clear: right;
+    }
+    .danhsach ul li:nth-child(4n+1){
+        clear: left;
+    }
+}
+@media (max-width: 799px){
+
+    .danhsach ul li {
+        width: 33.33%;
+        padding: 0 1%;
+    }
+    .danhsach ul li:nth-child(5n),.danhsach ul li:nth-child(5n+1),.danhsach ul li:nth-child(4n),.danhsach ul li:nth-child(4n+1){
+        clear: inherit;
+    }
+    .danhsach ul li:nth-child(3n){
+        clear: right;
+    }
+    .danhsach ul li:nth-child(3n+1){
+        clear: left;
+    }
+}
+
+
+
+@media (max-width: 1263px){
+    body.pc.qc .wrap
+    {
+        padding-left:10px;
+        padding-right:10px;
+    }
+
+}
+@media(min-width: 1200px) {
+    .danhsach ul li
+    {
+        width:20%;
+        padding:0 1%
+    }
+}
+@media (max-width: 899px) {
+    .danhsach ul li
+    {
+        width:20%;
+        /* padding:0 1% */}
+    .list_m
+
+}
+@media (min-width: 701px) and (max-width: 950px){
+
+    .danhsach ul li
+    {
+        width:25%;
+        padding:0 1.5%;
+    }
+    .danhsach ul li:nth-child(5n),.danhsach ul li:nth-child(5n+1){
+        clear: inherit;
+    }
+    .danhsach ul li:nth-child(4n){
+        clear: right;
+    }
+    .danhsach ul li:nth-child(4n+1){
+        clear: left;
+    }
+
+}
+@media (max-width: 700px) {
+    .vms_qc{
+        max-width: 100%;
+        width: 100%;
+    }
+    .danhsach ul li
+    {
+        width:33.33%;
+        padding:0 1.5%;
+    }
+    .danhsach ul li:nth-child(5n),.danhsach ul li:nth-child(5n+1),.danhsach ul li:nth-child(4n),.danhsach ul li:nth-child(4n+1){
+        clear: inherit;
+    }
+    .danhsach ul li:nth-child(3n){
+        clear: right;
+    }
+    .danhsach ul li:nth-child(3n+1){
+        clear: left;
+    }
+
+}
+@media (max-width: 500px) {
+    .danhsach ul li
+    {
+        width:50%;
+        padding:0 2%;
+    }
+    .danhsach ul li:nth-child(5n),.danhsach ul li:nth-child(5n+1),.danhsach ul li:nth-child(4n),.danhsach ul li:nth-child(4n+1),.danhsach ul li:nth-child(3n),.danhsach ul li:nth-child(3n+1){
+        clear: inherit;
+    }
+    .danhsach ul li:nth-child(2n){
+        clear: right;
+    }
+    .danhsach ul li:nth-child(2n+1){
+        clear: left;
+    }
+
+}
+
+@media(max-width: 800px) {
+
+    .pad-in{
+        padding: 0 2%;
+    }
+
+}
+@media(max-width: 1000px) {
+    .pac-1{
+        width: 100%;
+        margin-bottom: 20px !important;
+        display: inline-block;
+    }
+    .pac-2{
+        width: 100%;
+        margin-bottom: 20px !important;
+        display: inline-block;
+    }
+    .pac-3{
+        width: 100%;
+        margin-bottom: 20px !important;
+        display: inline-block;
+
+    }
+}

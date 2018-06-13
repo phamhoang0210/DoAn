@@ -1,0 +1,22 @@
+html, body{	padding: 0;	margin: 0;}
+p{	margin: 0 0 10px 0;}
+pre{	font-size: 12px;	width: 100%;	overflow: auto;	-webkit-overflow-scrolling: touch;}
+#page nav.slide-menu{	display: none;}
+a.show-menu{	
+	background: center center no-repeat transparent;	
+	display: none;	
+	position: absolute;	top: 12px;	left: 10px;
+	font-weight: 600;}
+a.show-menu img{
+	float: left;
+}
+a span.app-name{
+	float: left !important;
+	color: #FFF;
+	line-height: 45px	;
+	font-size: 16px;
+	margin-left: 10px;
+}
+#header a.friends{	background:#ccc;}
+#header a.right{	left: auto;	right: 10px;}
+#content{	padding: 20px;}

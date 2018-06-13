@@ -1,0 +1,163 @@
+﻿.black_overlay
+        {
+            display: none;
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            width: 100%;
+            height: 100%;
+            background-color: black;
+            z-index: 1001;
+            -moz-opacity: 0.8;
+            opacity: .80;
+            filter: alpha(opacity=80);
+        }
+        .white_content
+        {
+            display: none;
+            position: absolute;
+            top: 25%;
+            left: 35%;
+            width: 350px;
+            height:250px;
+            padding: 0px;
+            border: 0px solid #CC9933;
+            background-color: white;
+            z-index: 1002;
+            overflow: auto;
+        }
+        .headertext
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 18px;
+            color: #Bgfhgf;
+            font-weight: bold;
+        }
+        .textfield
+        {
+            border: 1px solid #CC9933;
+            width: 135px;
+        }
+        .buttonsubmit
+        {
+            background-color: #e3bfc3;
+            color: White;
+            font-size: 11px;
+            font-weight: bold;
+            border: 1px solid #7f9db9;
+            width: 68px;
+        }
+        
+        
+        /* Pop up web*/ 
+.popupweb{
+	background: linear-gradient(to top, #03699f 0%,#0e80b8 20%,#1fa2df 50%,#2abafa 96%);
+    text-align: center;
+	width:350px;
+	
+	display: none;
+            position: absolute;
+            top: 25%;
+            left: 35%;
+            padding: 0px;
+            border: 0px solid #CC9933;
+            background-color: white;
+            z-index: 1002;
+            overflow: auto;
+}
+#myPopupDialog{
+	width:350px;
+}
+.loginheader-popup{
+	height:30px;
+	width:350px;
+	background: linear-gradient(to top, #03699f 0%,#0e80b8 20%,#1fa2df 50%,#2abafa 96%);
+	color:white;
+	font-size:12px;
+        font-weight: bold;
+}
+.loginheader-popup > .hello-thuebao > span{
+	font-size:16px;
+	
+}
+.loginheader-popup > .hello-thuebao{
+	padding-top:5px;
+	float:left;
+	padding-left:5px;
+}
+a{
+	text-decoration:none;
+}
+
+.loginheader-popup > img{
+	float:right;
+	padding-left:30px;
+	top:3px;
+	position:absolute;
+}
+
+.login {
+    width: 300px;
+    height: 250px;
+    overflow: hidden;
+    margin: 50px auto;
+    margin-top: 30px;
+     margin-bottom:30px;
+	 
+}
+.input-form input{
+    width: 95%;
+    height: 50px;
+}
+.login .input-form{
+    border:1px solid #c7ccda;
+    
+    border-radius: 8px;
+}
+.username_login{
+    margin-top: 5px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border: 0px;
+    padding-left: 5px;
+}
+.pass_login{
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border: 0px;
+    border-top: 1px solid #bdbdbd;
+    margin-bottom: 5px;
+     padding-left: 5px;
+}
+.button-login >input{
+    width: 130px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 12px;
+    border: 0px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(to top, #01659a 0%,#1895d1 50%, #2bbdfd 90%);
+}
+.button-login a{
+    text-decoration: none;
+}
+.button-login >a >input{
+    width: 130px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 12px;
+    border: 0px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(to top, #01659a 0%,#1895d1 50%, #2bbdfd 90%);
+    text-decoration: none;
+}
+
+.link-login a{
+
+    color: #c7ccda;
+    text-decoration: none;
+}

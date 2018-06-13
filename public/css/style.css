@@ -1,0 +1,206 @@
+element.style {
+}
+.col-xs-12 {
+    width: 100%;
+}
+.col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    float: left;
+}
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+Inherited from body
+body {
+    font-size: 1.4rem;
+    overflow-x: hidden;
+}
+html, body {
+    font-family: "Roboto", sans-serif;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+Inherited from html.k-webkit.k-webkit55
+html {
+    font-size: 10px;
+}
+html, body {
+    font-family: "Roboto", sans-serif;
+}
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+Pseudo ::before element
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+Pseudo ::after element
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.directory_header .title {
+    font-size: 30px;
+    line-height: 30px;
+}
+h1, h2, h3, h4, h5 {
+    font-weight: 400;
+}
+h2 {
+    line-height: 3rem;
+    font-size: 2.8rem;
+    margin-bottom: 1.42399rem;
+    padding-top: .57601rem;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+h2 {
+    display: block;
+    font-size: 1.5em;
+    -webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+Inherited from body..channel_new.ember-application
+body {
+    font-family: Helvetica Neue,Helvetica,sans-serif;
+    font-size: 1.2rem;
+    line-height: 2rem;
+    color: #433f4a;
+}
+Inherited from html
+html {
+    font-size: 62.5%!important;
+}
+html {
+    font-size: 10px;
+}
+html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    font-size: 62.5%;
+}
+
+#header-menu  {
+   margin-top: -40px;
+    margin-right: -200px;
+    background-color: gray;
+    width: 690px;
+    height: 22px;
+    float: right;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    font-weight: bold;
+    font-size: 12px;
+    background-color: linear-gradient(to bottom, #ffffff 0%,#efefef 72%,#fefefe 100%);
+}
+#carousel_and_background {
+    background: #17141f;
+    position: relative;
+    overflow: hidden;
+    height: 510px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body, html {
+    height: 100%!important;
+}
+body {
+    font-family: Helvetica Neue,Helvetica,sans-serif;
+    font-size: 1.2rem;
+    line-height: 2rem;
+    color: #433f4a;
+}
+body {
+    background: white;
+    overflow-x: hidden;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+Inherited from html
+html {
+    font-size: 62.5%!important;
+}
+html {
+    font-size: 10px;
+}
+html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    font-size: 62.5%;
+}
+
+div.bigstars div.rateit-range
+{
+    background: url(star-white32.png);
+    height: 32px;
+}
+div.bigstars div.rateit-hover
+{
+    background: url(star-gold32.png);
+}
+div.bigstars div.rateit-selected
+{
+    background: url(star-red32.png);
+}
+div.bigstars div.rateit-reset
+{
+    background: url(star-black32.png);
+    width: 32px;
+    height: 32px;
+}
+div.bigstars div.rateit-reset:hover
+{
+    background: url(star-white32.png);
+}
+
